@@ -57,7 +57,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Victor Anizau Barros**
 
 - GitHub: [@VictorAnizauBarros](https://github.com/VictorAnizauBarros)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/victor-hugo-anizau-barros-65a775322/)
+- LinkedIn: [Victor Hugo Anizau Barros](https://linkedin.com/in/victor-hugo-anizau-barros-65a775322/)
 
 ---
 
